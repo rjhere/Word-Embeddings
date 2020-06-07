@@ -14,7 +14,7 @@ Quick intro Reference - https://towardsdatascience.com/what-the-heck-is-word-emb
     - CBOW
     - Skip-Gram
 
-Awesome read for above and more - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+To read in detail about above and more - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 
 # Let's start with the Classification
