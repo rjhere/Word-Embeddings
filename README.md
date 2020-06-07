@@ -2,6 +2,8 @@
 This repo is will give an introduction to Word Embeddings and go on to doing Text classification using word embeddings
 
 Word Embedding is a learned representation for text where words that have the same meaning have a similar representation. Individual words are represented as real-valued vectors in a predefined vector space. This is advantageous over the representaton by one hot encoding/Bag of words which has a lot of 0s in the vectors and miss out on capturing the semantic relations of words (as all words as considered to be independant).
+
+
 Quick intro Reference - https://towardsdatascience.com/what-the-heck-is-word-embedding-b30f67f01c81
 
 ## Types of Word Embedding
@@ -12,6 +14,8 @@ Quick intro Reference - https://towardsdatascience.com/what-the-heck-is-word-emb
 2. Prediction based Embedding
     -CBOW
     -Skip-Gram
+
+
 Awesome read for above and more - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 
@@ -26,6 +30,8 @@ Many of these can be done with the help of the [nltk package](https://github.com
 5. Part of Speech Tagging
 6. Named Entity Recognition
 7. And more...
+
+
 Reference - https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908
 
 
