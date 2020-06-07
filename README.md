@@ -7,12 +7,12 @@ Quick intro Reference - https://towardsdatascience.com/what-the-heck-is-word-emb
 
 ## Types of Word Embedding
 1. Frequency based Embedding
-    -Count Vectors
-    -TF-IDF
-    -Co-Occurrence Matrix
+    - Count Vectors
+    - TF-IDF
+    - Co-Occurrence Matrix
 2. Prediction based Embedding
-    -CBOW
-    -Skip-Gram
+    - CBOW
+    - Skip-Gram
 
 Awesome read for above and more - https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
